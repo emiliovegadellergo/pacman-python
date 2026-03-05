@@ -3,7 +3,7 @@ Ordinario LOO
 Segundo Semestre
 
 Integrantes:
-1.
+1. Emilio Vega de Llergo
 2.
 3.
 4.
