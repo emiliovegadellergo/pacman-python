@@ -54,7 +54,7 @@ class Pacman:
     def comer(self, punto):
         self.puntuacion += punto.valor
         if punto.esFruta:
-            self.activarPpoder()
+            self.activarPoder()
         punto.desactivar()
 
     def dibujar(self, pantalla):
