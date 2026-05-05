@@ -4,9 +4,9 @@ Segundo Semestre
 
 Integrantes:
 1. Emilio Vega de Llergo
-2.
-3.
-4.
+2. Alejandro Corredera Espinosa
+3. Diego Gallardo Vásquez
+4. José María Santiago Aguilar
 5.
 
 Videojuego elegido: Pacman
